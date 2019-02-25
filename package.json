@@ -1,0 +1,15 @@
+{
+  "name": "oclm-backup-installer",
+  "version": "1.0.0",
+  "description": "A utility application to backup and restore data for OLCM Assignment.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "udofiawin@gmail.com",
+  "homepage": "https://udofia.surge.sh",
+  "license": "ISC",
+  "dependencies": {
+    "electron-winstaller": "^2.7.0"
+  }
+}
